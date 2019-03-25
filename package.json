@@ -1,0 +1,15 @@
+{
+  "name": "alice_ero_trap_patchclick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "patchclick.js",
+  "dependencies": {
+    "asar": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ninislope",
+  "license": "Zlib"
+}
